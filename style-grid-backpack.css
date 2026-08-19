@@ -1,0 +1,32 @@
+.grid-sekk{
+    margin-top: 2%;
+    margin-left: 10%;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    gap: 8px;
+}
+
+.grid-inv{
+    display: grid;
+    grid-template-columns: repeat(8, 100px);
+    grid-template-rows: 100px 100px 100px;
+    gap: 8px;
+}
+
+.item{
+    border: solid black;
+    text-align: center;
+}
+
+button{
+    margin-top: 2%;
+    margin-left: 7%;
+    padding: 15px;
+    text-size: 20px;
+    border-radius: 5px;
+}
+
+.toggleInventory{
+    
+}
