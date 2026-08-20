@@ -70,3 +70,4 @@ function erDuKlar(){
         alert("Det er ennå plass i sekken!")
     } 
 }
+
